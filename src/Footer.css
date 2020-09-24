@@ -1,0 +1,38 @@
+.footer{
+    color: white;
+    padding: 5px;
+    padding-left: 20px;
+}
+.footer__middleInfo{
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 5px;
+}
+.footer__topIcons{
+    margin-left: 100px;
+    margin-bottom: 5px;
+}
+.footer__middleInfoFirst>p{
+    margin-top: 5px;
+}
+.footer__middleInfoSecond{
+    margin-top: 5px;
+}
+.footer__middleInfoThird{
+    margin-top: 5px;
+}
+.footer__middleInfoFourth{
+    margin-top: 5px;
+}
+.footer__topIcons> .MuiSvgIcon-root{
+    margin-right: 15px;
+}
+.footer__bottomInfo{
+    /* margin-left: 15px;
+    margin-bottom: 20px; */
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
